@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "lyricndigit",
+  "repo": "container-ak1ymma",
+  "name": "lyricndigit",
+  "email": "lyricthecreator@tutamail.com",
+}
